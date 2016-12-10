@@ -4,7 +4,7 @@ We used api.ai as our platform
 
 The way a user interacts with our bot is through SMS
 
-***Bot Idea*** - Develop a mobile commerce bot with focus on rural applications 
+***Bot Idea*** - Develop a mobile commerce bot with SMS being the primary mode of interaction. This device targeted at users who have limited or no access to Internet   
 
 Our bot in it's current setup helps to order a mobile but we plan to scale it up for further products and services
 
