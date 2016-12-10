@@ -2,7 +2,7 @@ import apiai
 import json
 import requests
 #print apiai.__version__
-CLIENT_ACCESS_TOKEN='bdafa714ad254d06a9d289f08fcd79b0'
+CLIENT_ACCESS_TOKEN=""
 brand=None
 type=None
 price=None
